@@ -1,0 +1,9 @@
+pickle-mixin
+tqdm
+tensorflow
+Pillow
+matplotlib
+pandas
+pydot
+graphviz
+nltk
